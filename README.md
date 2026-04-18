@@ -4,7 +4,7 @@ A high precision career dashboard that uses GPT-4o to show you where your resume
 I built this because "good enough" isn't actually good enough when you're gunning for top tier roles. Whether it's AI, engineering or music, you want the mix to be perfect. So it doesn't just tell you that you're a "match", it breaks down exactly where your skill gaps are and gives you the "Quick Fixes" needed to lock in that 100% score.
 
 You can try the production version of the dashboard here:  
-[Live App Link]([https://your-app-name.streamlit.app](https://hirelens-ai-resume-scanner-sdekhksarnkobkejyvfgn5.streamlit.app/))  
+[Live App Link]([https://hirelens-ai-resume-scanner-sdekhksarnkobkejyvfgn5.streamlit.app/])  
 *(Note: You'll need your own OpenAI API key to run a scan on the live demo for security reasons. Submit your job description and a resume.
 
 ### How to Run It (In your IDE for recreational purposes):
